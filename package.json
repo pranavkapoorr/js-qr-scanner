@@ -10,7 +10,8 @@
   "keywords": [
     "qr",
     "qrscanner",
-    "google"
+    "google",
+    "pranavkapoorr"
   ],
   "devDependencies": {
     "@babel/core": "7.2.0",
